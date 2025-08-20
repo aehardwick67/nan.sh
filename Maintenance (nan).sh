@@ -6,7 +6,7 @@ sleep 0.5s
 echo -e "For more information on the updates: view the Changelog"
 sleep 0.5s
 echo -e "Always check for updates & Ensure you have the correct distro"
-echo -e "of this script for your system specific needs"
+echo -e "of this script for your systems specific needs"
 sleep 0.5s
 echo -e "For a custom versions of this script contact business.aehardwick67@gmail.com"
 #add a space between distro announcement and contact section
